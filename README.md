@@ -18,10 +18,10 @@ The project is a responsive website for a fictional marketing agency. The site i
 
 ## Screenshots
 
-![Screenshot]()
-![Screenshot_1]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/116781005-ac817d00-aab2-11eb-8d39-5a723fe6570d.png)
+![Screenshot_1](https://user-images.githubusercontent.com/57517804/116781007-ae4b4080-aab2-11eb-94ac-13d5243fa902.png)
 
-[Demo]()
+[Demo](https://zen-swartz-62bbe9.netlify.app)
 
 ## Built With
 
