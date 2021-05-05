@@ -4,7 +4,7 @@ const nav = document.getElementById('nav');
 
 // Functions
 function toggleNav() {
-  nav.classList.toggle('open');
+  nav.classList.toggle('open-nav');
 }
 
 // Event Listeners
